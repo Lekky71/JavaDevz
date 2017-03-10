@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/Pictures/JavaDevz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/root/Pictures/JavaDevz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_468810f811f285e839e39c6e3b347e20604469b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Pictures/JavaDevz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fd28e76d36b04f0623df023199d1c05269fe83e2">
+        <dex dex="/root/Pictures/JavaDevz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_900164d0ec81e5b3081ebd84e3ba365b860dcfcb/classes.dex" />
+    </item>
+
+</items>
